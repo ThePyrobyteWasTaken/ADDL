@@ -1,0 +1,18 @@
+{
+    "id": 5310094,
+    "name": "Fairydust",
+    "author": "SuperPizzaLuigi",
+    "creators": ["SuperPizzaLuigi"],
+    "verifier": "Pyrobyte",
+    "verification": "https://youtu.be/bXXm8hNlOg8?si=KwKMKoUxc8Xurs0K",
+    "percentToQualify": 67,
+    "password": "e",
+    "records": [
+        {
+            "user":"Soan",
+            "link":"https://youtu.be/Jxvqxn3dkzU?si=SJZXCYbyQ1-l7NTr",
+            "percent":100,
+            "hz":240
+        }
+    ]
+}
