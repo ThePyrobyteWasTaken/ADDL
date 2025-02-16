@@ -1,0 +1,18 @@
+{
+    "id": 10890011,
+    "name": "Windy Circles",
+    "author": "KeiAs",
+    "creators": ["KeiAs"],
+    "verifier": "Likework",
+    "verification": "https://youtu.be/oBCKgsGOvGU?si=nxxqqe5pi0p1OF6A",
+    "percentToQualify": 10,
+    "password": "e",
+    "records": [
+        {
+            "user":"Pyrobyte",
+            "link":"https://youtu.be/ZFk4xyS6hFY?si=gq6y-iERnQKN9f5z",
+            "percent":12,
+            "hz":240
+        }
+    ]
+}
