@@ -1,0 +1,18 @@
+{
+    "id": 4957691,
+    "name": "Sharp Minor",
+    "author": "Giron",
+    "creators": ["Giron"],
+    "verifier": "Pyrobyte",
+    "verification": "https://youtu.be/PtNR6QJSlZo?si=j1TpVOIjjiNBmlu2",
+    "percentToQualify": 642",
+    "password": "e",
+    "records": [
+{
+"user":"Soan",
+"link":"https://youtu.be/A6rFxvy57O0?si=LHcIvWvv_Aar0BS7",
+"percent":100,
+"hz":240
+}
+    ]
+}
