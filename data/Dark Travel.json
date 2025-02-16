@@ -1,0 +1,18 @@
+{
+    "id": 32885972,
+    "name": "Dark Travel",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "Kozel",
+    "verification": "https://youtu.be/RuB-1AaHu48?si=VMcJn7TF0KIozXon",
+    "percentToQualify": "55",
+    "password": "e",
+    "records": [
+      {
+        "user":"Pyrobyte",
+        "link":"https://youtu.be/l97MaF1Cv8M?si=ngdakJe-uTYGPq9X",
+        "percent":57,
+        "hz":240
+      }
+    ]
+}
