@@ -1,0 +1,25 @@
+{
+    "id": 4284013,
+    "name": "Nine Circles",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "Kozel",
+    "verification": "https://youtu.be/ih82aaHRfSk?si=qOq-pppmCdX3Vpsn",
+    "percentToQualify": 65,
+    "password": "e",
+    "records": [
+        {
+            "user":"Pyrobyte",
+            "link":"https://youtu.be/QoCXITmZRmM?si=SuLMtlX3ltqcAwuQ",
+            "percent":100,
+            "hz":240
+        },
+
+        {
+            "user":"Lflazzy",
+            "link":"https://youtu.be/B79XChnRmd4?si=T4BERyyxpTm_AmHH",
+            "percent":100,
+            "hz":240
+        }
+    ]
+}
