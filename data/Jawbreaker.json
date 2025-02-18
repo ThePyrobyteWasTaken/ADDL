@@ -1,0 +1,30 @@
+{
+    "id": 6939821,
+    "name": "Jawbreaker",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha"],
+    "verifier": "Pyrobyte",
+    "verification": "https://youtu.be/9Cqad2h4fnw?si=EyY4T9Xn35QoqGgg",
+    "percentToQualify": "65",
+    "password": "e",
+    "records": [
+      {
+        user:"Soan",
+        link:"https://youtu.be/CDCDXO3THn0?si=X9bdp1p8We5sJyqA",
+        percent:100,
+        hz:240
+      }
+      {
+        user:"Lflazzy",
+        link:"https://youtu.be/s11JG8hg3uQ?si=9Q3CfbUgK4AxwGVO",
+        percent:100,
+        hz:180
+      }
+      {
+        user:"Swemas",
+        link:"https://youtu.be/bt0FnjP9h0E?si=66e1V8hcU5rd5ZH4",
+        percent:100,
+        hz:240
+      }
+    ]
+}
