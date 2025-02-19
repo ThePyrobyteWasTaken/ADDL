@@ -1,0 +1,18 @@
+{
+    "id": 5155022,
+    "name": "Acropolis",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "Pyrobyte",
+    "verification": "https://youtu.be/lbU8ZRl66OU?si=wD2FKK7nLwEJ7Qhg",
+    "percentToQualify": 52,
+    "password": "e",
+    "records": [
+        {
+            "user":"Soan",
+            "link":"https://youtu.be/9t9Te3P8eAc?si=_DG2far0lJ3rAtgk",
+            "percent":100,
+            "hz":240
+        }
+    ]
+}
