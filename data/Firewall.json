@@ -8,5 +8,11 @@
     "percentToQualify": "52",
     "password": "e",
     "records": [
+        {
+        "user":"Swemas",
+        "link":"https://www.youtube.com/live/dnIM9-HgNI8?si=BQJBXvEoJwISieYn",
+        "percent":57,
+        "hz":240
+        }
     ]
 }
