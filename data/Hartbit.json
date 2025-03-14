@@ -1,12 +1,12 @@
 {
     "id": 20321297,
-    "name": "Hartbit",
-    "author": "Riot",
+    "name": "Heartbeat",
+    "author": "Krmal",
     "creators": ["KrMaL"],
     "verifier": "Soan",
     "verification": "https://youtu.be/q8M6zQ8xtpo?si=BRG8ohoilHm4NvpI",
     "percentToQualify": 33,
-    "password": "conical",
+    "password": "e",
     "records": [
     ]
 }
