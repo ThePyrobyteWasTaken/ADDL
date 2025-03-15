@@ -8,5 +8,11 @@
     "percentToQualify": "72",
     "password": "e",
     "records": [
+      {
+        "user":"AntiSelic",
+        "link":"https://youtu.be/lRtCG7OJ47Q?si=_LfcLIvOxOFD9T4W",
+        "percent":100,
+        "hz":240
+      }
     ]
 }
