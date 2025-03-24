@@ -8,5 +8,11 @@
     "percentToQualify": "63",
     "password": "e",
     "records": [
+      {
+        "user":"soan101097",
+        "link":"https://youtu.be/R5tMdKiN5Fk",
+        "percent":100,
+        "hz":240
+      }
     ]
 }
