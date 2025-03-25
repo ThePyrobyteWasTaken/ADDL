@@ -8,5 +8,11 @@
     "percentToQualify": 33,
     "password": "e",
     "records": [
+        {
+            "user":"Likework",
+            "link":"https://www.youtube.com/watch?v=TGb5i31zlAY",
+            "percent":33,
+            "hz":240
+        }
     ]
 }
