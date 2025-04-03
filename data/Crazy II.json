@@ -8,5 +8,11 @@
     "percentToQualify": "65",
     "password": "e",
     "records": [
+        {
+            "user":"Juiced",
+            "link":"https://www.youtube.com/watch?v=P3mmrJ06uPA",
+            "percent":100,
+            "hz":240
+        }
     ]
 }
