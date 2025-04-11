@@ -25,6 +25,13 @@
             "link":"https://www.youtube.com/watch?v=l9U3QFDNUe0&list=PL-gW1pKInJodIHTvlYyEKolO-AtkySN96&index=10",
             "percent":100,
             "hz":240
+        },
+        {
+            "user":"Juiced",
+            "link":"https://www.youtube.com/watch?v=tqb9feUGdBU",
+            "percent":100,
+            "hz":240
         }
+
     ]
 }
