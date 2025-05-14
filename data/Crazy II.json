@@ -8,11 +8,5 @@
     "percentToQualify": "65",
     "password": "e",
     "records": [
-        {
-            "user":"Lightwork",
-            "link":"https://youtu.be/1r4t8cfi0Aw",
-            "percent":100,
-            "hz":240
-        }
     ]
 }
