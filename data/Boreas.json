@@ -8,5 +8,11 @@
     "percentToQualify": "65",
     "password": "e",
     "records": [
+        {
+            "user":"Pyrobyte",
+            "link":"https://youtu.be/yu_cmsf_oU8?si=cCxB4KqQKWe5pyPi",
+            "percent":79,
+            "hz":240
+        }
     ]
 }
