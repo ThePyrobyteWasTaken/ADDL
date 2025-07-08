@@ -129,6 +129,9 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <p>
+                        Keremino has been banned from the list for an unknown amount of time, as of July 8 2025.
+                    </p>
                 </div>
             </div>
         </main>
