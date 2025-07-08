@@ -103,7 +103,7 @@ export default {
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Please type all things required in the submission form. Or else, your level will not get added.
                     </p>
                     <p>
                         Medium Demons and Hard Demons only require footage
@@ -124,13 +124,10 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies (you can still use LDM or ULDM)
                     </p>
                     <p>
-                        This list is officially sponsored by EvoPot (he got 50 on kyouki go subscribe him)
+                        This list is officially sponsored by EvoPot (he got 50 on kyouki go subscribe him). And Keremino has been banned for an unknown amount of time, as of July 8 2025.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
-                    <p>
-                        Keremino has been banned from the list for an unknown amount of time, as of July 8 2025.
                     </p>
                 </div>
             </div>
