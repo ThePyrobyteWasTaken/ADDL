@@ -8,5 +8,11 @@
     "percentToQualify": "37",
     "password": "e",
     "records": [
+        {
+            "user":"blu",
+            "link":"https://youtu.be/S61J-ILfulg",
+            "percent":100,
+            "hz":240
+        }
     ]
 }
