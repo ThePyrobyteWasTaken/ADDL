@@ -26,6 +26,12 @@
             "link":"https://youtu.be/F_qt6kLK_gI?si=R3UjSOZhgka_Riql",
             "percent":100,
             "hz":240
+        },
+        {
+            "user":"pancake",
+            "link":"https://www.youtube.com/watch?v=oDAmQ58zCcA",
+            "percent":100,
+            "hz":60
         }
     ]
 }
