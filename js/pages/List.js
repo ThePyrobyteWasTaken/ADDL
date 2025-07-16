@@ -124,7 +124,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies (you can still use LDM or ULDM)
                     </p>
                     <p>
-                        This list is officially sponsored by EvoPot (he got 50 on kyouki go subscribe him). And Keremino has been banned for an unknown amount of time, as of July 8 2025.
+                        This list is officially sponsored by EvoPot (he got 50 on kyouki go subscribe him). And Keremino has been permanently banned from the website an unknown amount of time, as of July 16 2025.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
