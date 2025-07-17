@@ -9,16 +9,16 @@
     "password": "e",
     "records": [
         {
-            "user":"Antiselic",
-            "link":"https://youtu.be/KE7RiW9Q8cA?si=LpadlcHyv0fwkU76",
-            "percent":100,
-            "hz":31
-        },
-        {
             "user":"Keremino",
             "link":"https://youtu.be/Tm4mEeicgRs?si=ld6SM7AXWUub5_uq",
             "percent":100,
             "hz":480
+        },
+        {
+            "user":"Antiselic",
+            "link":"https://youtu.be/KE7RiW9Q8cA?si=LpadlcHyv0fwkU76",
+            "percent":100,
+            "hz":31
         }
     ]
 }
