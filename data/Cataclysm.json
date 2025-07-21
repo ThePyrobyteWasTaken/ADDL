@@ -19,6 +19,12 @@
             "link":"https://www.youtube.com/watch?v=_EGkv6Bt7xc&t",
             "percent":100,
             "hz":60
-        }      
+        },
+        {
+            "user":"Swemas",
+            "link":"https://www.youtube.com/watch?v=N_8cywnX5kM",
+            "percent":100,
+            "hz":240
+        }  
     ]
 }
