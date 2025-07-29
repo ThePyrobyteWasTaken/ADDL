@@ -3,16 +3,10 @@
     "name": "Stalemate",
     "author": "Nox",
     "creators": ["Nox"],
-    "verifier": "soan101097",
-    "verification": "https://youtu.be/mf8wrzZfgKc?si=tYLOGuSK46xfWl7N",
+    "verifier": "Lflazzy",
+    "verification": "https://youtu.be/_Qdmt-vm7JA?si=wxuLnPqu6R5pg4v0",
     "percentToQualify": "63",
     "password": "e",
     "records": [
-      {
-        "user":"Lflazzy",
-        "link":"https://youtu.be/_Qdmt-vm7JA?si=wxuLnPqu6R5pg4v0",
-        "percent":100,
-        "hz":180
-      }
     ]
 }
