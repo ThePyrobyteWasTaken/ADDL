@@ -3,16 +3,10 @@
     "name": "Conical Depression",
     "author": "KrMaL",
     "creators": ["KrMaL"],
-    "verifier": "soan101097",
-    "verification": "https://youtu.be/KHd-2TDUIRk?si=6ydjugP-lbOcoXe_",
+    "verifier": "blu",
+    "verification": "https://youtu.be/S61J-ILfulg",
     "percentToQualify": "37",
     "password": "e",
     "records": [
-        {
-            "user":"blu",
-            "link":"https://youtu.be/S61J-ILfulg",
-            "percent":100,
-            "hz":120
-        }
     ]
 }
