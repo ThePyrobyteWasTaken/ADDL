@@ -8,5 +8,11 @@
     "percentToQualify": "37",
     "password": "e",
     "records": [
+        {
+            "user":"sosan101099",
+            "link":"yourheadisbig.com",
+            "percent":98,
+            "hz":8593
+        }    
     ]
 }
