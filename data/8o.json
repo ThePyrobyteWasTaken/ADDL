@@ -8,5 +8,11 @@
     "percentToQualify": "54",
     "password": "e",
     "records": [
+        {
+            "user":"pancake",
+            "link":"https://youtu.be/Z240dxJPDeE?si=Rcris2Cj3rscqtEb",
+            "percent":79,
+            "hz":240
+        }
     ]
 }
