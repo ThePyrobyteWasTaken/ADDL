@@ -9,6 +9,12 @@
     "password": "e",
     "records": [
         {
+            "user":"soan101097",
+            "link":"https://youtu.be/Gby9rCT2LH8?si=ZuHfkU2vE6QIyG6s",
+            "percent":100,
+            "hz":240
+        },
+        {
             "user":"pancake",
             "link":"https://www.youtube.com/watch?v=CWBa-7RhZ0I",
             "percent":100,
