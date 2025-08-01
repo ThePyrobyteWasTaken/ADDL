@@ -1,12 +1,18 @@
 {
     "id": 17711004,
     "name": "Conical Depression",
-    "author": "KrMaL",
-    "creators": ["KrMaL"],
-    "verifier": "blu",
-    "verification": "https://youtu.be/S61J-ILfulg",
+    "author": "KrmaL",
+    "creators": ["KrmaL"],
+    "verifier": "soan101097",
+    "verification": "https://www.youtube.com/watch?v=KHd-2TDUIRk",
     "percentToQualify": "37",
     "password": "e",
     "records": [
+        {
+            "user":"blu",
+            "link":"https://youtu.be/S61J-ILfulg",
+            "percent":100,
+            "hz":120
+        }
     ]
 }
