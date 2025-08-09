@@ -3,16 +3,10 @@
     "name": "Firewall",
     "author": "Hinds",
     "creators": ["Hinds"],
-    "verifier": "Lflazzy",
-    "verification": "https://youtu.be/fbn_Bl30wSA?si=4_WJgY-aadZWe5da",
+    "verifier": "Swemas",
+    "verification": "https://youtu.be/fBzkAUt0iP0?si=TYdjPihYevgIHOuo",
     "percentToQualify": "52",
     "password": "e",
     "records": [
-        {
-        "user":"Swemas",
-        "link":"https://youtu.be/fBzkAUt0iP0?si=TYdjPihYevgIHOuo",
-        "percent":100,
-        "hz":240
-        }
     ]
 }
