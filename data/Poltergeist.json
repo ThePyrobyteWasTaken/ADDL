@@ -3,16 +3,10 @@
     "name": "Poltergeist",
     "author": "Andromeda GMD",
     "creators": ["Andromeda GMD"],
-    "verifier": "Lflazzy",
-    "verification": "https://youtu.be/9rqF4Mrl3Gw?si=N4Pwh7LLnAgN3zjd",
+    "verifier": "pancake",
+    "verification": "https://www.youtube.com/watch?v=JjZjhTqWoBA",
     "percentToQualify": "60",
     "password": "e",
     "records": [
-        {
-            "user":"pancake",
-            "link":"https://www.youtube.com/watch?v=JjZjhTqWoBA",
-            "percent":100,
-            "hz":60
-        }
     ]
 }
