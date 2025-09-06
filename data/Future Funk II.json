@@ -13,6 +13,12 @@
             "link":"https://youtu.be/Ey6Z-GcXnaE",
             "percent":100,
             "hz":240
+        },
+        {
+            "user":"pancake",
+            "link":"https://www.youtube.com/watch?v=Xk9qN0VkcDQ",
+            "percent":100,
+            "hz":60
         }
     ]
 }
