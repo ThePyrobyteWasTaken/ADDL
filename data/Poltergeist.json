@@ -8,5 +8,12 @@
     "percentToQualify": "60",
     "password": "e",
     "records": [
+    {
+         "user":"Kozel",
+         "link":"https://youtu.be/Gby9rCT2LH8?si=ZuHfkU2vE6QIyG6s",
+         "percent":100,
+         "hz":240
+
+    }
     ]
-}
+        }
