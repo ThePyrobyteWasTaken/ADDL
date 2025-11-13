@@ -8,11 +8,5 @@
     "percentToQualify": "50",
     "password": "e",
     "records": [
-        {
-        "user":"drawing2",
-        "link":"https://youtu.be/3FfvXpueFa4?si=PvoWgUVragexW3_k",
-        "percent":100,
-        "hz":240
-      }
     ]
 }
