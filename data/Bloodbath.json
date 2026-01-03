@@ -2,11 +2,17 @@
     "id": 10565740,
     "name": "Bloodbath",
     "author": "Riot",
-    "creators": ["Riot, Ggb0y and more"],
+    "creators": ["Riot"],
     "verifier": "Kozel",
     "verification": "https://youtu.be/WnuQZkiLC9k?si=WYZsTPSQ-sQpiCDe",
     "percentToQualify": "42",
     "password": "e",
     "records": [
+        {
+            "user":Lflazzy",
+            "link":"https://youtu.be/AG4y2kVvSp8?si=XI1wFzOMsAFhvHTD",
+            "percentage":100,
+            "hz":240
+        }   
     ]
 }
