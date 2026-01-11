@@ -9,6 +9,11 @@
     "password": "e",
     "records": [
         {
+            "user":"Yes130",
+            "link":"https://www.youtube.com/watch?v=LedodH7e2eE",
+            "percent":100,
+            "hz":240,
+            
             "user":"Lflazzy",
             "link":"https://youtu.be/AG4y2kVvSp8?si=XI1wFzOMsAFhvHTD",
             "percent":57,
