@@ -8,11 +8,5 @@
     "percentToQualify": "55",
     "password": "e",
     "records": [
-        {
-            "user":"chill joe.",
-            "link":"https://youtu.be/ziJCPcMT0IE?si=AgufU-cjaa1_ICRz",
-            "percent":100,
-            "hz":240
-        }
     ]
 }
