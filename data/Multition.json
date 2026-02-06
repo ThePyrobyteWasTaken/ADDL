@@ -1,6 +1,6 @@
 {
     "id": 60660086,
-    "name": "Multition",
+    "name": "Multition (2P)",
     "author": "Mulpan",
     "creators": ["Mulpan & PartitionZion"],
     "verifier": "Pyrobyte",
@@ -8,5 +8,11 @@
     "percentToQualify": "65",
     "password": "e",
     "records": [
+      {
+        "user":"blu",
+        "link":"https://youtu.be/UZE6W4vTUTA?si=4JmvbXIBpes7ff30",
+        "percent":100,
+        "hz":240
+      }
     ]
 }
