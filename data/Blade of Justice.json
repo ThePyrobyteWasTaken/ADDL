@@ -1,0 +1,18 @@
+{
+    "id": 35448603,
+    "name": "Blade of Justice",
+    "author": "Manix648",
+    "creators": ["Manix648, LaserBlitz"],
+    "verifier": "Catastrophical",
+    "verification": "https://youtu.be/5T7XOME42mM?si=mzIgg6jz6-D6fbbE",
+    "percentToQualify": 57,
+    "password": "astral",
+    "records": [
+        {
+            "user":"Yes130",
+            "link":"https://www.youtube.com/watch?v=OZn2wrjqjZY",
+            "percent":100,
+            "hz":240
+        }
+    ]
+}
