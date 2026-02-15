@@ -3,16 +3,10 @@
     "name": "Allegiance",
     "author": "Nikroplays",
     "creators": ["Nikroplays"],
-    "verifier": "Juiced",
-    "verification": "https://youtu.be/OCBVYRLeqtY?si=kHUBilcH68BZnEFY",
-    "percentToQualify": "48",
+    "verifier": "Kozel",
+    "verification": "https://youtu.be/pW-Tl5KjfE8",
+    "percentToQualify": "40",
     "password": "e",
     "records": [
-        {
-            "user":"Lightwork",
-            "link":"https://youtu.be/gpSoWU2FtpE?feature=shared",
-            "percent":79,
-            "hz":240
-        }
     ]
 }
