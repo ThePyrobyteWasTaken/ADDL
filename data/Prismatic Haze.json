@@ -8,5 +8,11 @@
     "percentToQualify": "56",
     "password": "Büyük Taşak Enerjisi",
     "records": [
+            {
+        "user":"Swemas",
+        "link":"https://youtu.be/HjsArhJTLyA?si=wDrw8_V5HCC47zUs",
+        "percent":70,
+        "hz":240
+    }
     ]
 }
