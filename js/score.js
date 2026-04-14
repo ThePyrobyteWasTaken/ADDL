@@ -11,10 +11,10 @@ const scale = 3;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
-    if (rank > 60) {
+    if (rank > 80) {
         return 0;
     }
-    if (rank > 30 && percent < 100) {
+    if (rank > 40 && percent < 100) {
         return 0;
     }
 
@@ -24,7 +24,7 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-    let score = (-29.36*Math.pow(rank-1, 0.4) + 200) *
+    let score = (-26.15 * Math.pow(rank-1, 0.4) + 200) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
