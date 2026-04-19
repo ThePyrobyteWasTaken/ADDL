@@ -5,8 +5,14 @@
     "creators": ["Sillow"],
     "verifier": "soan101097",
     "verification": "https://youtu.be/gRDDgY0EKRQ",
-    "percentToQualify": "62",
+    "percentToQualify": "63",
     "password": "e",
     "records": [
+        {
+            "user":"Swemas",
+            "link":"https://youtu.be/UoOnqB21aDU?si=s0uQ3JzvtDhVXkEd",
+            "percent":68,
+            "hz":240
+        }
     ]
 }
