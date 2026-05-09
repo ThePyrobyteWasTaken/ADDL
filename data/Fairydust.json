@@ -6,7 +6,13 @@
     "verifier": "Pyrobyte",
     "verification": "https://youtu.be/bXXm8hNlOg8?si=KwKMKoUxc8Xurs0K",
     "percentToQualify": 67,
-    "password": "e",
+    "password": "scientologyrunsarepeak",
     "records": [
+        {
+            "user":"Swemas",
+            "link":"https://youtu.be/xjmKBdVafiI?si=LtOorexViUBNXSrG",
+            "percent":100,
+            "hz":240
+        }
     ]
 }
