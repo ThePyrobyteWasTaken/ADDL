@@ -8,5 +8,11 @@
     "percentToQualify": 48,
     "password": "t",
     "records": [
+        {
+            "user":"Flip13298",
+            "link":"https://www.youtube.com/watch?v=Ib_Hb_BP7yY",
+            "percent":100,
+            "hz":240
+        }
     ]
 }
