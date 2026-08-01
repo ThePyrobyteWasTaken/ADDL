@@ -8,5 +8,11 @@
     "percentToQualify": "40",
     "password": "e",
     "records": [
+    {
+         "user":"Yes130",
+         "link":"https://youtu.be/oR91mYmGj_Y",
+         "percent":100,
+         "hz":240
+    }
     ]
 }
