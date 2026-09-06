@@ -112,7 +112,7 @@ export default {
                         Insane Demons require a footage with one of 2 things (clicks on the footage, or raw footage)
                     </p>
                     <p>
-                        Extreme Demons require footage with clicks and raw footage
+                        Extreme Demons require footage with clicks alongside raw footage. Raw footage needs to show atleast 2 minutes prior to the completion run.
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
@@ -124,7 +124,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies (you can still use LDM or ULDM)
                     </p>
                     <p>
-                        This list is officially sponsored by EvoPot (he got 50 on kyouki go subscribe him). And Keremino has been permanently banned from the website, as of July 16 2025.
+                        This list is officially sponsored by EvoPot and Shopify.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
